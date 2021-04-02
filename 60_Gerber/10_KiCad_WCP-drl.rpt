@@ -1,0 +1,25 @@
+Drill report for /home/prasanna/HDa_files/Lectures/10_HW/XX_PCB_template/10_work/10_KiCad_WCP.kicad_pcb
+Created on Wed Mar 24 21:29:39 2021
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file '10_KiCad_WCP-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.80mm  0.031"  (18 holes)
+    T2  0.90mm  0.035"  (2 holes)
+    T3  1.00mm  0.039"  (8 holes)
+
+    Total plated holes count 28
+
+
+Drill file '10_KiCad_WCP-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.20mm  0.126"  (4 holes)
+
+    Total unplated holes count 4

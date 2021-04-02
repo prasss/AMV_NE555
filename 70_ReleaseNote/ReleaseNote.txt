@@ -1,0 +1,19 @@
+24.03.2021, Mhapsekar Prasanna
+------------------------
+
+
+Note: Every Version gets an entry, explaining their stpeciality. e.g.:
+
+22.03.2021 - Astabel Multivibrarot, Vesion 1.0
+------------------------------------------------
+Features: Prepared a first version of the schematic and the parts list
+
+
+23.03.2021 - Astabel Multivibrarot, Vesion 1.1
+------------------------------------------------
+Features: Prepared a first version of the Layout
+
+
+24.03.2021 - Astabel Multivibrarot, Vesion 1.2
+------------------------------------------------
+Features: Added TPs as connectors and completed layout

@@ -1,0 +1,13 @@
+1) Calculations for design value of Resistor R1 (Resistor across Green LED, rated 2.4V @ 20mA), we use the following formula:
+R = (Vcc - Vled)/Iled
+R = (9 - 2.4)/20mA
+R = 380 Ohms
+Chose 390 Ohms as the standard resistor value
+
+
+2) Choice of capacitor C1 -> 100nF of Ceramic type - Enables noise reduction for different noise frequencies with little to no change in characteristics such as resistance and impedance at higher frequencies.
+
+
+3) The Upper and bottom planes of the PCB have been grounded to provide effective shielding and immediaate access to GND for all components.
+
+4) For the NE555 IC, a socket has been chosen that would enable swapping of the IC incase of damages.
